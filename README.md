@@ -2,6 +2,8 @@
 
 A modern, responsive, and interactive single-player **Ping Pong Game** built using **HTML5 Canvas**, **Vanilla JavaScript**, and **CSS3**. Play against an AI opponent with adjustable difficulty levels and enjoy smooth gameplay with sound and animations.
 
+🌐 **Live Demo:** [https://ping-pong12.web.app](https://ping-pong12.web.app)
+
 ![Game Preview](Images/oveer.gif)
 
 
